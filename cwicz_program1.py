@@ -1,5 +1,5 @@
 # - *- coding: utf- 8 - *-
-print("Jak masz na imię?")
+print("Jak masz na imię ?")
 
 imie = input()
 
