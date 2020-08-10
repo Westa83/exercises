@@ -1,3 +1,4 @@
+# - *- coding: utf- 8 - *-
 print("Jak masz na imię?")
 
 imie = input()
