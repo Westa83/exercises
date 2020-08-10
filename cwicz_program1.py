@@ -5,6 +5,8 @@ imie = input()
 
 print("Hej, cześć", imie)
 
+print("")
+
 print("Ile masz lat?")
 
 wiek = int(input())
@@ -12,3 +14,4 @@ wiek = int(input())
 wiekZaRok = str(wiek + 1)
 
 print("Za rok będziesz mieć" + wiekZaRok + "lat")
+
