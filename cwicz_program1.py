@@ -13,5 +13,5 @@ wiek = int(input())
 
 wiekZaRok = str(wiek + 1)
 
-print("Za rok będziesz mieć" + wiekZaRok + "lat")
+print("Za rok będziesz mieć " + wiekZaRok + " lat")
 
